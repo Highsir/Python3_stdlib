@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25eec571-e917-46f5-97e1-6210f65fcff0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python3标准库$select_echo_multiclient.coverage" NAME="select_echo_multiclient Coverage Results" MODIFIED="1570875676974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/select_高效等待IO" />
+    <SUITE FILE_PATH="coverage/Python3标准库$json_mixed_data.coverage" NAME="json_mixed_data Coverage Results" MODIFIED="1572491405171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/json_JavaScript对象记法" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_subprocess_coroutine.coverage" NAME="asyncio_subprocess_coroutine Coverage Results" MODIFIED="1569645943888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/使用子进程" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_gethostname.coverage" NAME="socket_gethostname Coverage Results" MODIFIED="1569817742314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/socket网络通信" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_43_threading_lock_with.coverage" NAME="10_43_threading_lock_with Coverage Results" MODIFIED="1568265973353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$future_future_exception.coverage" NAME="future_future_exception Coverage Results" MODIFIED="1569740479120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/concurrent.future管理并发池任务" />
+    <SUITE FILE_PATH="coverage/Python3标准库$http_server_errors.coverage" NAME="http_server_errors Coverage Results" MODIFIED="1572240256504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/http.server_实现web服务器的基类" />
+    <SUITE FILE_PATH="coverage/Python3标准库$select_poll_echo_server.coverage" NAME="select_poll_echo_server Coverage Results" MODIFIED="1570875673947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/select_高效等待IO" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_generator.coverage" NAME="asyncio_generator Coverage Results" MODIFIED="1569040721431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_1_subprocess_os_system.coverage" NAME="10_1_subprocess_os_system Coverage Results" MODIFIED="1567831876378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_58_multiprocessing_terminate.coverage" NAME="10_58_multiprocessing_terminate Coverage Results" MODIFIED="1568861737707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_47_threading_semaphore.coverage" NAME="10_47_threading_semaphore Coverage Results" MODIFIED="1568440506245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_cancel_task.coverage" NAME="asyncio_cancel_task Coverage Results" MODIFIED="1569128733876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_25_signal_threads.coverage" NAME="10_25_signal_threads Coverage Results" MODIFIED="1567920442089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text" />
+    <SUITE FILE_PATH="coverage/Python3标准库$urllib_request_urlopen.coverage" NAME="urllib_request_urlopen Coverage Results" MODIFIED="1571889867432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/urllib.request_网络资源访问" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_59_multiprocessing_exitcode.coverage" NAME="10_59_multiprocessing_exitcode Coverage Results" MODIFIED="1568862664676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$1_19_re_finditer.coverage" NAME="1_19.re_finditer Coverage Results" MODIFIED="1557402988769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.第一章_文本" />
+    <SUITE FILE_PATH="coverage/Python3标准库$__enter__.coverage" NAME="清理__enter__实现 Coverage Results" MODIFIED="1567742838639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_test" />
+    <SUITE FILE_PATH="coverage/Python3标准库$multiprocessing_lock.coverage" NAME="multiprocessing_lock Coverage Results" MODIFIED="1568869541418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_types_obkect2.coverage" NAME="xmlrpc_types_obkect2 Coverage Results" MODIFIED="1572519623642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_19_subprocess_signal_parent_shell.coverage" NAME="10_19_subprocess_signal_parent_shell Coverage Results" MODIFIED="1567834383424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text" />
+    <SUITE FILE_PATH="coverage/Python3标准库$2_45_array_byteswap.coverage" NAME="2_45_array_byteswap Coverage Results" MODIFIED="1567834241115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/second_test" />
+    <SUITE FILE_PATH="coverage/Python3标准库$1_13.coverage" NAME="1_13 Coverage Results" MODIFIED="1557359632349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.第一章_文本" />
+    <SUITE FILE_PATH="coverage/Python3标准库$futures_as_completed.coverage" NAME="futures_as_completed Coverage Results" MODIFIED="1569731480853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/concurrent.future管理并发池任务" />
+    <SUITE FILE_PATH="coverage/Python3标准库$assyncio_getanameinfo.coverage" NAME="assyncio_getanameinfo Coverage Results" MODIFIED="1569558828118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/与域名服务交互" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_getaddrinfo_extra_args.coverage" NAME="socket_getaddrinfo_extra_args Coverage Results" MODIFIED="1570334185198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/socket网络通信" />
+    <SUITE FILE_PATH="coverage/Python3标准库$http_cookies_setheaders.coverage" NAME="http_cookies_setheaders Coverage Results" MODIFIED="1572322108161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/http.cookies_HTTPcookie" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_signal.coverage" NAME="asyncio_signal Coverage Results" MODIFIED="1569647976094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/使用子进程/接收UNIX信号" />
+    <SUITE FILE_PATH="coverage/Python3标准库$futures_future_callback_cancel.coverage" NAME="futures_future_callback_cancel Coverage Results" MODIFIED="1569740129163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/concurrent.future管理并发池任务" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_35_threading_subclass.coverage" NAME="10_35_threading_subclass Coverage Results" MODIFIED="1568089611936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$3_5_functions_wraps.coverage" NAME="3_5_functions_wraps Coverage Results" MODIFIED="1569380931855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_test" />
+    <SUITE FILE_PATH="coverage/Python3标准库$2_socket_echo_server_explicit__1_.coverage" NAME="2.socket_echo_server_explicit (1) Coverage Results" MODIFIED="1570344801754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/tcp_ip" />
+    <SUITE FILE_PATH="coverage/Python3标准库$http_server_send_header.coverage" NAME="http_server_send_header Coverage Results" MODIFIED="1572261313513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/http.server_实现web服务器的基类" />
+    <SUITE FILE_PATH="coverage/Python3标准库$json_load_object_hook.coverage" NAME="json_load_object_hook Coverage Results" MODIFIED="1572436940381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/json_JavaScript对象记法" />
+    <SUITE FILE_PATH="coverage/Python3标准库$urllib_request_urloprn_iterator.coverage" NAME="urllib_request_urloprn_iterator Coverage Results" MODIFIED="1572240259214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/urllib.request_网络资源访问" />
+    <SUITE FILE_PATH="coverage/Python3标准库$1_38_re_groups_nested.coverage" NAME="1_38.re_groups_nested Coverage Results" MODIFIED="1557406077485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.第一章_文本" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_future_event_loop.coverage" NAME="asyncio_future_event_loop Coverage Results" MODIFIED="1569126072208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$4_socket_echo_client_dgram.coverage" NAME="4.socket_echo_client_dgram Coverage Results" MODIFIED="1570425635113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/tcp_ip" />
+    <SUITE FILE_PATH="coverage/Python3标准库$json_encoder_default.coverage" NAME="json_encoder_default Coverage Results" MODIFIED="1572437791781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/json_JavaScript对象记法" />
+    <SUITE FILE_PATH="coverage/Python3标准库$4_socket_echo_server_dgram.coverage" NAME="4.socket_echo_server_dgram Coverage Results" MODIFIED="1570425629456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/tcp_ip" />
+    <SUITE FILE_PATH="coverage/Python3标准库$wraps.coverage" NAME="wraps Coverage Results" MODIFIED="1567225519581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/装饰器" />
+    <SUITE FILE_PATH="coverage/Python3标准库$11_3_ipaddress_network_iterate.coverage" NAME="11_3_ipaddress_network_iterate Coverage Results" MODIFIED="1569816093845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/ipaddress_Internet地址" />
+    <SUITE FILE_PATH="coverage/Python3标准库$futures_futture_callback.coverage" NAME="futures_futture_callback Coverage Results" MODIFIED="1569732603839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/concurrent.future管理并发池任务" />
+    <SUITE FILE_PATH="coverage/Python3标准库$json_decoder_object_hook.coverage" NAME="json_decoder_object_hook Coverage Results" MODIFIED="1572438880226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/json_JavaScript对象记法" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_getservbyname.coverage" NAME="socket_getservbyname Coverage Results" MODIFIED="1570077969513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/socket网络通信" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_subprocess_protocol.coverage" NAME="asyncio_subprocess_protocol Coverage Results" MODIFIED="1569561838740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/使用子进程" />
+    <SUITE FILE_PATH="coverage/Python3标准库$1_37_re_test_patterns_groups.coverage" NAME="1_37.re_test_patterns_groups Coverage Results" MODIFIED="1557404979383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.第一章_文本" />
+    <SUITE FILE_PATH="coverage/Python3标准库$http_server_POST.coverage" NAME="http_server_POST Coverage Results" MODIFIED="1571980183119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/http.server_实现web服务器的基类" />
+    <SUITE FILE_PATH="coverage/Python3标准库$uuid_uuid1_repeat.coverage" NAME="uuid_uuid1_repeat Coverage Results" MODIFIED="1572428832673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/uuid_全局唯一标识符" />
+    <SUITE FILE_PATH="coverage/Python3标准库$json_sort_keys.coverage" NAME="json_sort_keys Coverage Results" MODIFIED="1572432367866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/json_JavaScript对象记法" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_address_packing.coverage" NAME="socket_address_packing Coverage Results" MODIFIED="1570335134531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/socket网络通信" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_coroutine.coverage" NAME="asyncio_coroutine Coverage Results" MODIFIED="1569036285910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_as_complete.coverage" NAME="asyncio_as_complete Coverage Results" MODIFIED="1569213278239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_future_await.coverage" NAME="asyncio_future_await Coverage Results" MODIFIED="1569127600807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$11_4_ipaddress_network_iterate_hosts.coverage" NAME="11_4_ipaddress_network_iterate+hosts Coverage Results" MODIFIED="1569816333854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/ipaddress_Internet地址" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_72_pool.coverage" NAME="10_72_pool Coverage Results" MODIFIED="1568950805238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$3_57_contextlib_decorator.coverage" NAME="3_57_contextlib_decorator Coverage Results" MODIFIED="1567401768792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_test" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_21_signal_signal.coverage" NAME="10_21_signal_signal Coverage Results" MODIFIED="1567855980092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_getservbyport.coverage" NAME="socket_getservbyport Coverage Results" MODIFIED="1570078230645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/socket网络通信" />
+    <SUITE FILE_PATH="coverage/Python3标准库$urllib_robotparser_longlived.coverage" NAME="urllib_robotparser_longlived Coverage Results" MODIFIED="1572235809374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/urllib_robotparser_Internet蜘蛛访问控制" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_40_threading_lock_noblock.coverage" NAME="10_40_threading-lock_noblock Coverage Results" MODIFIED="1568264108854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_coroutine_return.coverage" NAME="asyncio_coroutine_return Coverage Results" MODIFIED="1569036476192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_echo_server_coroutine_ssl.coverage" NAME="asyncio_echo_server_coroutine_ssl Coverage Results" MODIFIED="1569473618623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/SSL" />
+    <SUITE FILE_PATH="coverage/Python3标准库$base64_b64encode.coverage" NAME="base64_b64encode Coverage Results" MODIFIED="1572236350214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/base64_用ASCII编码二进制数据" />
+    <SUITE FILE_PATH="coverage/Python3标准库$select_echo_server.coverage" NAME="select_echo_server Coverage Results" MODIFIED="1570862117155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/select_高效等待IO" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_exception.coverage" NAME="xmlrpc_exception Coverage Results" MODIFIED="1572520244685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_65_multiprocessing_event.coverage" NAME="10_65_multiprocessing_event Coverage Results" MODIFIED="1568868988241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_echo_server_coroutine.coverage" NAME="asyncio_echo_server_coroutine Coverage Results" MODIFIED="1569466736085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/使用协程和流的异步IO" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_50_moltiprocessing_simple.coverage" NAME="10_50_moltiprocessing_simple Coverage Results" MODIFIED="1568524750596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$urllib_request_request_hander.coverage" NAME="urllib_request_request_hander Coverage Results" MODIFIED="1571894041100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/urllib.request_网络资源访问" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_27_thrending_simple.coverage" NAME="10_27_thrending_simple Coverage Results" MODIFIED="1568000845304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$uuid_uuid1_othermac.coverage" NAME="uuid_uuid1_othermac Coverage Results" MODIFIED="1572429105542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/uuid_全局唯一标识符" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_echo_client_protocol.coverage" NAME="asyncio_echo_client_protocol Coverage Results" MODIFIED="1569388225256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_echo_client_coroutine.coverage" NAME="asyncio_echo_client_coroutine Coverage Results" MODIFIED="1569466994131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/使用协程和流的异步IO" />
+    <SUITE FILE_PATH="coverage/Python3标准库$urllib_parse_urlparse.coverage" NAME="urllib_parse_urlparse Coverage Results" MODIFIED="1571719171285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/urllib.parse_分解URL" />
+    <SUITE FILE_PATH="coverage/Python3标准库$1_17_re_simple_compiled.coverage" NAME="1_17.re_simple_compiled Coverage Results" MODIFIED="1557360911119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.第一章_文本" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_multicast_sender.coverage" NAME="socket_multicast_sender Coverage Results" MODIFIED="1570595523411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/组播" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_29_threading_names.coverage" NAME="10-29_threading_names Coverage Results" MODIFIED="1568001273236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1567312313217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heapq" />
+    <SUITE FILE_PATH="coverage/Python3标准库$urllib_robotparser_simple.coverage" NAME="urllib_robotparser_simple Coverage Results" MODIFIED="1572234620027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/urllib_robotparser_Internet蜘蛛访问控制" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_instance_with_prefix_client.coverage" NAME="xmlrpc_instance_with_prefix_client Coverage Results" MODIFIED="1572579747339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_39_theading_lock.coverage" NAME="10_39_theading_lock Coverage Results" MODIFIED="1568170269572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_37_threading_timer.coverage" NAME="10_37_threading_timer Coverage Results" MODIFIED="1568093634551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_gethostbyaddr.coverage" NAME="socket_gethostbyaddr Coverage Results" MODIFIED="1570077534710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/socket网络通信" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_55_multiprocessing_daemon.coverage" NAME="10_55_multiprocessing_daemon Coverage Results" MODIFIED="1568698200496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_ServerProxy.coverage" NAME="xmlrpc_ServerProxy Coverage Results" MODIFIED="1572514433709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端" />
+    <SUITE FILE_PATH="coverage/Python3标准库$assyncio_call_at.coverage" NAME="assyncio_call_at Coverage Results" MODIFIED="1569043600398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_54_multiprocessing_names.coverage" NAME="10_54_multiprocessing_names Coverage Results" MODIFIED="1568525426821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_multicast_receiver.coverage" NAME="socket_multicast_receiver Coverage Results" MODIFIED="1570595469675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/组播" />
+    <SUITE FILE_PATH="coverage/Python3标准库$futures_process_pool_map.coverage" NAME="futures_process_pool_map Coverage Results" MODIFIED="1569752144583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/concurrent.future管理并发池任务" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_binary_client.coverage" NAME="socket_binary_client Coverage Results" MODIFIED="1570598818627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/socket网络通信/发送二进制数据" />
+    <SUITE FILE_PATH="coverage/Python3标准库$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1571110913413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_text" />
+    <SUITE FILE_PATH="coverage/Python3标准库$uuid_uuid3_uuid5.coverage" NAME="uuid_uuid3_uuid5 Coverage Results" MODIFIED="1572429511116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/uuid_全局唯一标识符" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_ensure_future.coverage" NAME="asyncio_ensure_future Coverage Results" MODIFIED="1569206965526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_wait.coverage" NAME="asyncio_wait Coverage Results" MODIFIED="1569207472245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$futures_thread_pool_map.coverage" NAME="futures_thread_pool_map Coverage Results" MODIFIED="1569730441160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/concurrent.future管理并发池任务" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_ServerProxy_verbose.coverage" NAME="xmlrpc_ServerProxy_verbose Coverage Results" MODIFIED="1572514555590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socketserver_echo.coverage" NAME="socketserver_echo Coverage Results" MODIFIED="1571373753962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/socketserver_创建网络服务器" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_22_signal_getsignal.coverage" NAME="10_22_signal_getsignal Coverage Results" MODIFIED="1567856482654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text" />
+    <SUITE FILE_PATH="coverage/Python3标准库$http_cookies_js_output.coverage" NAME="http_cookies_js_output Coverage Results" MODIFIED="1572323930851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/http.cookies_HTTPcookie" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_condition.coverage" NAME="asyncio_condition Coverage Results" MODIFIED="1569215763482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$3_8_functools_lru_cache.coverage" NAME="3.8_functools_lru_cache Coverage Results" MODIFIED="1565329249471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_test" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_getfqdn.coverage" NAME="socket_getfqdn Coverage Results" MODIFIED="1570077295514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/socket网络通信" />
+    <SUITE FILE_PATH="coverage/Python3标准库$3_6_functools_total_ordering.coverage" NAME="3.6_functools_total_ordering Coverage Results" MODIFIED="1565241243063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_test" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_30_threading_names_logs.coverage" NAME="10_30_threading_names_logs Coverage Results" MODIFIED="1568001695743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_coroutine_chain.coverage" NAME="asyncio_coroutine_chain Coverage Results" MODIFIED="1569036972024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_echo_client.coverage" NAME="socket_echo_client Coverage Results" MODIFIED="1570337211930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/tcp_ip" />
+    <SUITE FILE_PATH="coverage/Python3标准库$webbrowser_open.coverage" NAME="webbrowser_open Coverage Results" MODIFIED="1572327006414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/webbrowser_显示Web界面" />
+    <SUITE FILE_PATH="coverage/Python3标准库$uuid_uuid3_repeat.coverage" NAME="uuid_uuid3_repeat Coverage Results" MODIFIED="1572431140416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/uuid_全局唯一标识符" />
+    <SUITE FILE_PATH="coverage/Python3标准库$select_echo_server_timeout.coverage" NAME="select_echo_server_timeout Coverage Results" MODIFIED="1570863580907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/select_高效等待IO" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_Binary.coverage" NAME="xmlrpc_Binary Coverage Results" MODIFIED="1572519218499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端" />
+    <SUITE FILE_PATH="coverage/Python3标准库$1_0_.coverage" NAME="1.0_堆队列算法 Coverage Results" MODIFIED="1567160547733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heapq" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socketserver_forking.coverage" NAME="socketserver_forking Coverage Results" MODIFIED="1571376361881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/socketserver_创建网络服务器" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_echo_server_any.coverage" NAME="socket_echo_server_any Coverage Results" MODIFIED="1570424496347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/tcp_ip" />
+    <SUITE FILE_PATH="coverage/Python3标准库$http_cookies_coded_value.coverage" NAME="http_cookies_coded_value Coverage Results" MODIFIED="1572322620684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/http.cookies_HTTPcookie" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_44_threading_condition.coverage" NAME="10_44_threading_condition Coverage Results" MODIFIED="1568285953525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_63_multiprocessing_queue.coverage" NAME="10_63_multiprocessing_queue Coverage Results" MODIFIED="1568865192822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$http_server_GET.coverage" NAME="http_server_GET Coverage Results" MODIFIED="1571980164142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/http.server_实现web服务器的基类" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_24_signal_ignore.coverage" NAME="10_24_signal_ignore Coverage Results" MODIFIED="1567858462009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_echo_server.coverage" NAME="socket_echo_server Coverage Results" MODIFIED="1570339044874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/tcp_ip" />
+    <SUITE FILE_PATH="coverage/Python3标准库$3_1_functools_partial.coverage" NAME="3.1_functools_partial Coverage Results" MODIFIED="1565238092500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_test" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_36_threading_subclass_args.coverage" NAME="10_36_threading_subclass_args Coverage Results" MODIFIED="1568090743637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_62_multiprocessing_subclass.coverage" NAME="10_62_multiprocessing_subclass Coverage Results" MODIFIED="1568864772572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_getaddrinfo.coverage" NAME="socket_getaddrinfo Coverage Results" MODIFIED="1570262886846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/socket网络通信" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_echo_server_uds.coverage" NAME="socket_echo_server_uds Coverage Results" MODIFIED="1570508925923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/UNIX域套接字" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_debug.coverage" NAME="asyncio_debug Coverage Results" MODIFIED="1569729027463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/用asyncio调试" />
+    <SUITE FILE_PATH="coverage/Python3标准库$uuid_getnode.coverage" NAME="uuid_getnode Coverage Results" MODIFIED="1572428661953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/uuid_全局唯一标识符" />
+    <SUITE FILE_PATH="coverage/Python3标准库$selectors_echo_client.coverage" NAME="selectors_echo_client Coverage Results" MODIFIED="1570789288921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/selector_IO多路复用抽象" />
+    <SUITE FILE_PATH="coverage/Python3标准库$json_dump_default.coverage" NAME="json_dump_default Coverage Results" MODIFIED="1572433638767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/json_JavaScript对象记法" />
+    <SUITE FILE_PATH="coverage/Python3标准库$1_35_re_groups_individual.coverage" NAME="1-35.re_groups_individual Coverage Results" MODIFIED="1557403495140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.第一章_文本" />
+    <SUITE FILE_PATH="coverage/Python3标准库$json_simple_types_decode.coverage" NAME="json_simple_types_decode Coverage Results" MODIFIED="1572431866600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/json_JavaScript对象记法" />
+    <SUITE FILE_PATH="coverage/Python3标准库$urllib_request_urlopen_post.coverage" NAME="urllib_request_urlopen_post Coverage Results" MODIFIED="1571893347960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/urllib.request_网络资源访问" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_create_task.coverage" NAME="asyncio_create_task Coverage Results" MODIFIED="1569128340041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_socketpair.coverage" NAME="socket_socketpair Coverage Results" MODIFIED="1570515675361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/UNIX域套接字" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_queue.coverage" NAME="asyncio_queue Coverage Results" MODIFIED="1569298389474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$selectors_echo_server.coverage" NAME="selectors_echo_server Coverage Results" MODIFIED="1570789280405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/selector_IO多路复用抽象" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socketserver_echo_simple.coverage" NAME="socketserver_echo_simple Coverage Results" MODIFIED="1571374328687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/socketserver_创建网络服务器" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_48_threading_local.coverage" NAME="10_48_threading_local Coverage Results" MODIFIED="1568524239679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_instance_with_prefix.coverage" NAME="xmlrpc_instance_with_prefix Coverage Results" MODIFIED="1572579743287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器" />
+    <SUITE FILE_PATH="coverage/Python3标准库$1_38_re_groups_nested__1_.coverage" NAME="1_38.re_groups_nested (1) Coverage Results" MODIFIED="1557411953675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_text" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_wait_timeout.coverage" NAME="asyncio_wait_timeout Coverage Results" MODIFIED="1569208086363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_46_threading_barrier_abort.coverage" NAME="10-46_threading_barrier_abort Coverage Results" MODIFIED="1568439011459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_ServerProxy_encoding.coverage" NAME="xmlrpc_ServerProxy_encoding Coverage Results" MODIFIED="1572514690751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_60_multiprocessing_log_to_stderr.coverage" NAME="10_60_multiprocessing_log_to_stderr Coverage Results" MODIFIED="1568864488553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$2_socket_echo_client_easy.coverage" NAME="2.socket_echo_client_easy Coverage Results" MODIFIED="1570339050385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/tcp_ip" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_echo_client_coroutine_ssl.coverage" NAME="asyncio_echo_client_coroutine_ssl Coverage Results" MODIFIED="1569473628308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/SSL" />
+    <SUITE FILE_PATH="coverage/Python3标准库$11_1_ipaddress_addresses.coverage" NAME="11-1_ipaddress_addresses Coverage Results" MODIFIED="1569753380873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/ipaddress_Internet地址" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_getaddrinfo.coverage" NAME="asyncio_getaddrinfo Coverage Results" MODIFIED="1569558421286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/与域名服务交互" />
+    <SUITE FILE_PATH="coverage/Python3标准库$futures_context_manager.coverage" NAME="futures_context_manager Coverage Results" MODIFIED="1569740658912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/concurrent.future管理并发池任务" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_31_threading_daemon.coverage" NAME="10_31_threading_daemon Coverage Results" MODIFIED="1568003869116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socketserver_threaded.coverage" NAME="socketserver_threaded Coverage Results" MODIFIED="1571375449373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/socketserver_创建网络服务器" />
+    <SUITE FILE_PATH="coverage/Python3标准库$multiprocessing_wordcount.coverage" NAME="multiprocessing_wordcount Coverage Results" MODIFIED="1568954375975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_executor_thread.coverage" NAME="asyncio_executor_thread Coverage Results" MODIFIED="1569727387366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/结合使用协程线程与进程" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_types_object.coverage" NAME="xmlrpc_types_object Coverage Results" MODIFIED="1572516035252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/传递对喜" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_gethostbyname.coverage" NAME="socket_gethostbyname Coverage Results" MODIFIED="1570076521123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/socket网络通信" />
+    <SUITE FILE_PATH="coverage/Python3标准库$json_simple_types.coverage" NAME="json_simple_types Coverage Results" MODIFIED="1572431638725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/json_JavaScript对象记法" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_gather.coverage" NAME="asyncio_gather Coverage Results" MODIFIED="1569212859057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$http_server_threads.coverage" NAME="http_server_threads Coverage Results" MODIFIED="1572240067315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/http.server_实现web服务器的基类" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_67_multiprocessing_condition.coverage" NAME="10_67_multiprocessing_condition Coverage Results" MODIFIED="1568870739604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_38_threading_event.coverage" NAME="10_38-threading_event Coverage Results" MODIFIED="1568162877434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_gethostname_ex.coverage" NAME="socket_gethostname_ex Coverage Results" MODIFIED="1570077495019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/socket网络通信" />
+    <SUITE FILE_PATH="coverage/Python3标准库$http_cookies_parse.coverage" NAME="http_cookies_parse Coverage Results" MODIFIED="1572323217490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/http.cookies_HTTPcookie" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_call_soon.coverage" NAME="asyncio_call_soon Coverage Results" MODIFIED="1569041354137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_executor_process.coverage" NAME="asyncio_executor_process Coverage Results" MODIFIED="1569727924695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/结合使用协程线程与进程" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_45_thread_barrier.coverage" NAME="10_45_thread_barrier Coverage Results" MODIFIED="1568436192486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_26_signal_thrends_alarm.coverage" NAME="10_26_signal_thrends_alarm Coverage Results" MODIFIED="1567915788560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_69_multiprocessing_manager_dict.coverage" NAME="10_69_multiprocessing_manager_dict Coverage Results" MODIFIED="1568871554674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_MultiCall.coverage" NAME="xmlrpc_MultiCall Coverage Results" MODIFIED="1572521119812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_instance_dotted_name_client.coverage" NAME="xmlrpc_instance_dotted_name_client Coverage Results" MODIFIED="1572578627512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_ServerProxy_allow_none.coverage" NAME="xmlrpc_ServerProxy_allow_none Coverage Results" MODIFIED="1572514896740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_event.coverage" NAME="asyncio_event Coverage Results" MODIFIED="1569215043890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$3_39_itertools_product.coverage" NAME="3_39_itertools_product Coverage Results" MODIFIED="1566187940020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_test" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_lock.coverage" NAME="asyncio_lock Coverage Results" MODIFIED="1569213989779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_echo_server_protocol.coverage" NAME="asyncio_echo_server_protocol Coverage Results" MODIFIED="1569388221961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_binary_server.coverage" NAME="socket_binary_server Coverage Results" MODIFIED="1570598812753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/socket网络通信/发送二进制数据" />
+    <SUITE FILE_PATH="coverage/Python3标准库$select_echo_slow_client.coverage" NAME="select_echo_slow_client Coverage Results" MODIFIED="1570863585480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/select_高效等待IO" />
+    <SUITE FILE_PATH="coverage/Python3标准库$docket_getportobyname.coverage" NAME="docket_getportobyname Coverage Results" MODIFIED="1570081163118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/socket网络通信" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_23_signal_alarm.coverage" NAME="10_23_signal_alarm Coverage Results" MODIFIED="1567857598744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_subprocess_coroutine_write.coverage" NAME="asyncio_subprocess_coroutine_write Coverage Results" MODIFIED="1569647173731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio/使用子进程" />
+    <SUITE FILE_PATH="coverage/Python3标准库$socket_echo_client_uds.coverage" NAME="socket_echo_client_uds Coverage Results" MODIFIED="1570508931442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/UNIX域套接字" />
+    <SUITE FILE_PATH="coverage/Python3标准库$urllib_request_nfs_hander.coverage" NAME="urllib_request_nfs_hander Coverage Results" MODIFIED="1572072632547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/urllib.request_网络资源访问" />
+    <SUITE FILE_PATH="coverage/Python3标准库$futures_thread_pool_submit.coverage" NAME="futures_thread_pool_submit Coverage Results" MODIFIED="1569730676385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/concurrent.future管理并发池任务" />
+    <SUITE FILE_PATH="coverage/Python3标准库$3_44_itertools_combinations_with_replacement.coverage" NAME="3_44_itertools_combinations_with_replacement Coverage Results" MODIFIED="1566966266975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_test" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_instance_dotted_names.coverage" NAME="xmlrpc_instance_dotted_names Coverage Results" MODIFIED="1572578611568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器" />
+    <SUITE FILE_PATH="coverage/Python3标准库$uuid_uuid4.coverage" NAME="uuid_uuid4 Coverage Results" MODIFIED="1572431302871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/uuid_全局唯一标识符" />
+    <SUITE FILE_PATH="coverage/Python3标准库$urllib_request_upload_files.coverage" NAME="urllib_request_upload_files Coverage Results" MODIFIED="1571980373113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/urllib.request_网络资源访问" />
+    <SUITE FILE_PATH="coverage/Python3标准库$futures_process_pool_broken.coverage" NAME="futures_process_pool_broken Coverage Results" MODIFIED="1569752734581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/concurrent.future管理并发池任务" />
+    <SUITE FILE_PATH="coverage/Python3标准库$11_2_ipaddress_networks.coverage" NAME="11_2_ipaddress_networks Coverage Results" MODIFIED="1569815225527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/eleven_text/ipaddress_Internet地址" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_call_later.coverage" NAME="asyncio_call_later Coverage Results" MODIFIED="1569041834379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$json_encoder_iterable.coverage" NAME="json_encoder_iterable Coverage Results" MODIFIED="1572437245422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/json_JavaScript对象记法" />
+    <SUITE FILE_PATH="coverage/Python3标准库$3_38_accurate.coverage" NAME="3_38_accurate Coverage Results" MODIFIED="1566187058296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three_test" />
+    <SUITE FILE_PATH="coverage/Python3标准库$2_socket_echo_server_explicit.coverage" NAME="2.socket_echo_server_explicit Coverage Results" MODIFIED="1570882356071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eleven_text/socket网络通信/tcp_ip" />
+    <SUITE FILE_PATH="coverage/Python3标准库$asyncio_future_callback.coverage" NAME="asyncio_future_callback Coverage Results" MODIFIED="1569127993850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/asyncio" />
+    <SUITE FILE_PATH="coverage/Python3标准库$urllib_request_request_post.coverage" NAME="urllib_request_request_post Coverage Results" MODIFIED="1571894897160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/urllib.request_网络资源访问" />
+    <SUITE FILE_PATH="coverage/Python3标准库$xmlrpc_server.coverage" NAME="xmlrpc_server Coverage Results" MODIFIED="1572519170235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_34_threading_enumerate.coverage" NAME="10_34_threading_enumerate Coverage Results" MODIFIED="1568089111860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/thrending" />
+    <SUITE FILE_PATH="coverage/Python3标准库$10_64_multiprocessing_producer_consumer.coverage" NAME="10_64_multiprocessing_producer_consumer Coverage Results" MODIFIED="1568867349854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten_text/multiprocessing" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="xmlrpc_instance_with_prefix.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_with_prefix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xmlrpc_instance_with_prefix_client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_with_prefix_client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xmlrpc_instance_dotted_names.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_dotted_names.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>test</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>text</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/twelve/urllib.request_网络资源访问/urllib_request_urlopen_post.py" />
+        <option value="$PROJECT_DIR$/twelve/urllib.request_网络资源访问/urllib_request_request_hander.py" />
+        <option value="$PROJECT_DIR$/twelve/urllib.request_网络资源访问/urllib_request_request_post.py" />
+        <option value="$PROJECT_DIR$/twelve/urllib.request_网络资源访问/urllib_request_upload_files.py" />
+        <option value="$PROJECT_DIR$/twelve/urllib.request_网络资源访问/urllib_request_nfs_hander.py" />
+        <option value="$PROJECT_DIR$/twelve/urllib_robotparser_Internet蜘蛛访问控制/urllib_robotparser_simple.py" />
+        <option value="$PROJECT_DIR$/twelve/urllib_robotparser_Internet蜘蛛访问控制/tobots.txt" />
+        <option value="$PROJECT_DIR$/twelve/urllib_robotparser_Internet蜘蛛访问控制/urllib_robotparser_longlived.py" />
+        <option value="$PROJECT_DIR$/twelve/base64_用ASCII编码二进制数据/base64_b64encode.py" />
+        <option value="$PROJECT_DIR$/twelve/http.server_实现web服务器的基类/http_server_threads.py" />
+        <option value="$PROJECT_DIR$/twelve/http.server_实现web服务器的基类/http_server_errors.py" />
+        <option value="$PROJECT_DIR$/twelve/http.server_实现web服务器的基类/http_server_send_header.py" />
+        <option value="$PROJECT_DIR$/twelve/http.cookies_HTTPcookie/http_cookies_setheaders.py" />
+        <option value="$PROJECT_DIR$/twelve/http.cookies_HTTPcookie/http_cookies_coded_value.py" />
+        <option value="$PROJECT_DIR$/twelve/http.cookies_HTTPcookie/http_cookies_parse.py" />
+        <option value="$PROJECT_DIR$/twelve/http.cookies_HTTPcookie/http_cookies_js_output.py" />
+        <option value="$PROJECT_DIR$/twelve/webbrowser_显示Web界面/webbrowser_open.py" />
+        <option value="$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_getnode.py" />
+        <option value="$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_uuid1_repeat.py" />
+        <option value="$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_uuid1_othermac.py" />
+        <option value="$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_uuid3_uuid5.py" />
+        <option value="$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_uuid3_repeat.py" />
+        <option value="$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_uuid4.py" />
+        <option value="$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_simple_types.py" />
+        <option value="$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_simple_types_decode.py" />
+        <option value="$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_sort_keys.py" />
+        <option value="$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_myobj.py" />
+        <option value="$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_dump_default.py" />
+        <option value="$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_load_object_hook.py" />
+        <option value="$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_encoder_iterable.py" />
+        <option value="$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_encoder_default.py" />
+        <option value="$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_decoder_object_hook.py" />
+        <option value="$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_mixed_data.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_server.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_ServerProxy.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_ServerProxy_verbose.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_ServerProxy_encoding.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_ServerProxy_allow_none.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/传递对喜/xmlrpc_types_object.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_Binary.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_types_obkect2.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_exception.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_MultiCall.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_function.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_function_client.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xnlrpc_altername_name.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_altername_name_client.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_dotted_names.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_dotted_name_client.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_with_prefix_client.py" />
+        <option value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_with_prefix.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="724" />
+    <option name="y" value="48" />
+    <option name="width" value="951" />
+    <option name="height" value="894" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3标准库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3标准库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3标准库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3标准库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twelve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xmlrpc_server_一个XML-RPC服务器" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3标准库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python3标准库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twelve" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/highsir/PycharmProjects/Python3标准库/ten_text/eleven_text/socket网络通信/docket_getportobyname.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ten_text/asyncio/SSL" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端" />
+      <recent name="$PROJECT_DIR$/twelve/urllib_robotparser_Internet蜘蛛访问控制/file" />
+      <recent name="$PROJECT_DIR$/eleven_text/socket网络通信" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ten_text/asyncio/使用子进程/接收UNIX信号" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.xmlrpc_instance_with_prefix_client">
+    <configuration default="false" name="xmlrpc_MultiCall" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_MultiCall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="xmlrpc_instance_dotted_names" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_dotted_names.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="xmlrpc_instance_dotted_name_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_dotted_name_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="xmlrpc_instance_with_prefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_with_prefix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="xmlrpc_instance_with_prefix_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_with_prefix_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Python3标准库" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3标准库" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.xmlrpc_MultiCall" />
+      <item index="1" class="java.lang.String" itemvalue="Python.xmlrpc_instance_dotted_names" />
+      <item index="2" class="java.lang.String" itemvalue="Python.xmlrpc_instance_dotted_name_client" />
+      <item index="3" class="java.lang.String" itemvalue="Python.xmlrpc_instance_with_prefix" />
+      <item index="4" class="java.lang.String" itemvalue="Python.xmlrpc_instance_with_prefix_client" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.xmlrpc_instance_with_prefix_client" />
+        <item index="1" class="java.lang.String" itemvalue="Python.xmlrpc_instance_with_prefix" />
+        <item index="2" class="java.lang.String" itemvalue="Python.xmlrpc_instance_dotted_name_client" />
+        <item index="3" class="java.lang.String" itemvalue="Python.xmlrpc_instance_dotted_names" />
+        <item index="4" class="java.lang.String" itemvalue="Python.xmlrpc_MultiCall" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25eec571-e917-46f5-97e1-6210f65fcff0" name="Default" comment="" />
+      <created>1557358942146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557358942146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="724" y="48" width="951" height="894" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28382838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990025" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/twelve/urllib.request_网络资源访问/urllib_request_nfs_hander.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="40" column="38" lean-forward="false" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/urllib_robotparser_Internet蜘蛛访问控制/urllib_robotparser_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#24#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="1472" column="0" lean-forward="false" selection-start-line="1472" selection-start-column="0" selection-end-line="1472" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/urllib_robotparser_Internet蜘蛛访问控制/file/tobots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/urllib_robotparser_Internet蜘蛛访问控制/urllib_robotparser_longlived.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/base64_用ASCII编码二进制数据/base64_b64encode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/http.server_实现web服务器的基类/http_server_errors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/urllib.request_网络资源访问/urllib_request_urloprn_iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/http.server_实现web服务器的基类/http_server_threads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#58#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/http.server_实现web服务器的基类/http_server_send_header.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/http.cookies_HTTPcookie/http_cookies_setheaders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/http.cookies_HTTPcookie/http_cookies_coded_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/http.cookies_HTTPcookie/http_cookies_parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/http.cookies_HTTPcookie/http_cookies_js_output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#24#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/webbrowser_显示Web界面/webbrowser_open.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_getnode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_uuid1_repeat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_uuid1_othermac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_uuid3_uuid5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_uuid3_repeat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/uuid_全局唯一标识符/uuid_uuid4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_simple_types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_simple_types_decode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="354" column="0" lean-forward="false" selection-start-line="354" selection-start-column="0" selection-end-line="354" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_decoder_object_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_encoder_default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_encoder_iterable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_load_object_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_dump_default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_myobj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_sort_keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/json_JavaScript对象记法/json_mixed_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_ServerProxy_verbose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_ServerProxy_encoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_ServerProxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_ServerProxy_allow_none.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#88#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_types_obkect2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#20#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_types_object.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_Binary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#20#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc.client_XML-RPC的客户端/xmlrpc_MultiCall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_function_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xnlrpc_altername_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_altername_name_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_dotted_names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_dotted_name_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_with_prefix_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twelve/xmlrpc_server_一个XML-RPC服务器/xmlrpc_instance_with_prefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
